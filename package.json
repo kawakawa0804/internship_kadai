@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "ts-node test.ts",
-    "dev": "ts-node index.ts"
+    "test": "ts-node kadaitest.ts",
+    "dev": "ts-node kadai.ts"
   },
   "keywords": [],
   "author": "",
